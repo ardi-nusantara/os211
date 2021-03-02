@@ -4,3 +4,4 @@
 ZCZC W00 10 L03 GitHub Related : Create Repository
 ZCZC W00 75 L02 ZOOM related : First Week Monday Class
 ZCZC W01 115 L02 ZOOM related : Second Week Monday Class
+ZCZC W01 50 L05 GSGS related
