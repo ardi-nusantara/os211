@@ -6,4 +6,5 @@ ZCZC W00 75 L02 ZOOM related : First Week Monday Class
 ZCZC W01 115 L02 ZOOM related : Second Week Monday Class
 ZCZC W01 50 L05 GSGS related
 ZCZC W01 492 L21 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 60 L05 GSGS related 
+ZCZC W01 60 L05 GSGS related
+ZCZC W01 30 L05 GSGS related
