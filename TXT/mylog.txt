@@ -16,3 +16,4 @@ ZCZC W02 33 L22 YouTube: video about customizing windows terminal
 ZCZC W02 63 L05 GSGS related
 ZCZC W02 35 L22 YouTube: C Programming Tutorial for Beginners
 ZCZC W03 100 ZOOM related: syncronous class
+ZCZC W03 60 L10 Assignment (General)
