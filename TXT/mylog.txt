@@ -19,3 +19,5 @@ ZCZC W03 100 ZOOM related: syncronous class
 ZCZC W03 60 L10 Assignment (General)
 ZCZC W03 12 L22 YouTube: File systems video
 ZCZC W03 75 L10 Assignment (General): Add top 10 links and update myrank
+ZCZC W04 105 ZOOM related: syncronous class
+ZCZC W04 40 L10 Assignment (General): Tarball myW04.tar.bz2
