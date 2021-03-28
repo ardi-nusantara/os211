@@ -5,3 +5,4 @@ Operating Systems 2021-1
 [W01](https://ardi-nusantara.github.io/os211/W01)
 [W02](https://ardi-nusantara.github.io/os211/W02)
 [W03](https://ardi-nusantara.github.io/os211/W03)
+[W04](https://ardi-nusantara.github.io/os211/W04)
