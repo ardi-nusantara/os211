@@ -27,3 +27,6 @@ ZCZC W04 15 L10 Assignment (General): Add top 10 links, top 3 rank, and update m
 ZCZC W05 90 L02 ZOOM: Syncronous Class
 ZCZC W05 70 L10 Assignment (General): Add w05 Tarball and try the lowest RAM possiblea
 ZCZC W05 210 L05 GSGS related: Add top 10 links
+ZCZC W06 110 ZOOM related: syncronous class
+ZCZC W06 30 L10 Assignment (General): Add w06 tarball
+ZCZC W06 240 L05 GSGS related: Add top 10 links, top 3 rank, and update mylog.txt
