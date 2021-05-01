@@ -15,11 +15,11 @@ ZCZC W02 40 L10 Assignment: Copy myscript.sh from cbkadal and generate SHA256SUM
 ZCZC W02 33 L22 YouTube: video about customizing windows terminal
 ZCZC W02 63 L05 GSGS related
 ZCZC W02 35 L22 YouTube: C Programming Tutorial for Beginners
-ZCZC W03 100 ZOOM related: syncronous class
+ZCZC W03 100 L02 ZOOM related: syncronous class
 ZCZC W03 60 L10 Assignment (General)
 ZCZC W03 12 L22 YouTube: File systems video
 ZCZC W03 75 L10 Assignment (General): Add top 10 links and update myrank
-ZCZC W04 105 ZOOM related: syncronous class
+ZCZC W04 105 L02 ZOOM related: syncronous class
 ZCZC W04 40 L10 Assignment (General): Tarball myW04.tar.bz2
 ZCZC W04 35 L22 YouTube: Memory addressing related video
 ZCZC W04 150 L05 GSGS related: Sorting out things for top 10 links
@@ -27,6 +27,12 @@ ZCZC W04 15 L10 Assignment (General): Add top 10 links, top 3 rank, and update m
 ZCZC W05 90 L02 ZOOM: Syncronous Class
 ZCZC W05 70 L10 Assignment (General): Add w05 Tarball and try the lowest RAM possiblea
 ZCZC W05 210 L05 GSGS related: Add top 10 links
-ZCZC W06 110 ZOOM related: syncronous class
+ZCZC W06 110 L02 ZOOM related: syncronous class
 ZCZC W06 30 L10 Assignment (General): Add w06 tarball
 ZCZC W06 240 L05 GSGS related: Add top 10 links, top 3 rank, and update mylog.txt
+ZCZC W07 110 L02 ZOOM related: syncronous class
+ZCZC W07 20 L01 Scele: Popquiz W07
+ZCZC W07 180 L10 Assignment: Add W07 top 10 links
+ZCZC W07 15 L10 Assignment: Pick W06 top 3 rank
+ZCZC W07 60 L10 Assignment: Add W07 tarball
+
