@@ -35,4 +35,6 @@ ZCZC W07 20 L01 Scele: Popquiz W07
 ZCZC W07 180 L10 Assignment: Add W07 top 10 links
 ZCZC W07 15 L10 Assignment: Pick W06 top 3 rank
 ZCZC W07 60 L10 Assignment: Add W07 tarball
-
+ZCZC W08 110 L02 ZOOM related: syncronous class
+ZCZC W08 180 L10 Assignment: Do LFS Chapter 1-4
+ZCZC W08 15 L10 Assignment: Pick W07 top 3 rank
