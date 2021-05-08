@@ -38,3 +38,4 @@ ZCZC W07 60 L10 Assignment: Add W07 tarball
 ZCZC W08 110 L02 ZOOM related: syncronous class
 ZCZC W08 180 L10 Assignment: Do LFS Chapter 1-4
 ZCZC W08 15 L10 Assignment: Pick W07 top 3 rank
+ZCZC W08 160 L10 Assignment: Add W08 top 10 links
